@@ -1,0 +1,23 @@
+{
+  "name": "components",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "license": "MIT",
+  "peerDependencies": {
+    "@chakra-ui/react": "^1.7",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "framer-motion": "^4",
+    "react": "^17"
+  },
+  "dependencies": {
+    "react-select": "^5.2.1"
+  },
+  "devDependencies": {
+    "@chakra-ui/react": "^1.7.2",
+    "@emotion/react": "^11",
+    "@emotion/styled": "^11",
+    "framer-motion": "^4",
+    "react": "17.0.2"
+  }
+}
